@@ -1,1 +1,1 @@
-# SpoinkOS Project Updater# SpoinkOS-Issues
+# SpoinkOS-Issues
